@@ -133,6 +133,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OTKSKXTM
 
+[Document6]
+DocumentPath=main3425.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WEAUQETB
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for buck_reg_for_jetson\Design Rule Check - PCB1_on_hydrolib.html
 DItemRevisionGUID=
