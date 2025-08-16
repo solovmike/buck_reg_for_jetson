@@ -55,7 +55,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -72,7 +72,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -123,7 +123,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -140,7 +140,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -149,6 +149,100 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VJKPDFEC
+
+[ProjectVariant1]
+UniqueID=54E9D48C-E96B-474A-9F43-FA1FA273EACA
+Description=5v_vout
+AllowFabrication=0
+ParameterCount=0
+VariationCount=2
+Variation1=Designator=R9|UniqueId=\OOYETQNW\TRXTBYIN|Kind=2|AlternatePart=Resistor|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\solov\Documents\Altium\Hydrolib\Hydrolib.DbLib/Resistors$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=Resistor_4.7k_1_0603|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Hydrolib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=0603R|AltLibLink_IsSameFootprint=True
+ParamVariation1=ParameterName=Case|VariantValue= 
+ParamDesignator1=R9
+ParamVariation2=ParameterName=Comment|VariantValue=Resistor
+ParamDesignator2=R9
+ParamVariation3=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator3=R9
+ParamVariation4=ParameterName=Database Table Name|VariantValue=Resistors$
+ParamDesignator4=R9
+ParamVariation5=ParameterName=Datasheet|VariantValue= 
+ParamDesignator5=R9
+ParamVariation6=ParameterName=Description|VariantValue=Резистор номиналом 4,7 кОм и точностью 1%
+ParamDesignator6=R9
+ParamVariation7=ParameterName=Footprint|VariantValue=0603R
+ParamDesignator7=R9
+ParamVariation8=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator8=R9
+ParamVariation9=ParameterName=Library Reference|VariantValue=Resistor_4.7k_1_0603
+ParamDesignator9=R9
+ParamVariation10=ParameterName=Manufactore|VariantValue= 
+ParamDesignator10=R9
+ParamVariation11=ParameterName=Notice|VariantValue= 
+ParamDesignator11=R9
+ParamVariation12=ParameterName=Part Number|VariantValue=Resistor_4.7k_1_0603
+ParamDesignator12=R9
+ParamVariation13=ParameterName=PCB3D|VariantValue= 
+ParamDesignator13=R9
+ParamVariation14=ParameterName=Pin Info|VariantValue= 
+ParamDesignator14=R9
+ParamVariation15=ParameterName=Power|VariantValue=*
+ParamDesignator15=R9
+ParamVariation16=ParameterName=Rate|VariantValue= 
+ParamDesignator16=R9
+ParamVariation17=ParameterName=Shop|VariantValue= 
+ParamDesignator17=R9
+ParamVariation18=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator18=R9
+ParamVariation19=ParameterName=Simulation|VariantValue= 
+ParamDesignator19=R9
+ParamVariation20=ParameterName=Tolerance|VariantValue=1%
+ParamDesignator20=R9
+ParamVariation21=ParameterName=Value|VariantValue=4,7 к
+ParamDesignator21=R9
+Variation2=Designator=R10|UniqueId=\OOYETQNW\YPFYRSAI|Kind=2|AlternatePart=Resistor|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\solov\Documents\Altium\Hydrolib\Hydrolib.DbLib/Resistors$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=Resistor_1.5k_1_0603|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Hydrolib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=0603R|AltLibLink_IsSameFootprint=True
+ParamVariation22=ParameterName=Case|VariantValue= 
+ParamDesignator22=R10
+ParamVariation23=ParameterName=Comment|VariantValue=Resistor
+ParamDesignator23=R10
+ParamVariation24=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator24=R10
+ParamVariation25=ParameterName=Database Table Name|VariantValue=Resistors$
+ParamDesignator25=R10
+ParamVariation26=ParameterName=Datasheet|VariantValue= 
+ParamDesignator26=R10
+ParamVariation27=ParameterName=Description|VariantValue=Резистор номиналом 1,5 кОм и точностью 1%
+ParamDesignator27=R10
+ParamVariation28=ParameterName=Footprint|VariantValue=0603R
+ParamDesignator28=R10
+ParamVariation29=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator29=R10
+ParamVariation30=ParameterName=Library Reference|VariantValue=Resistor_1.5k_1_0603
+ParamDesignator30=R10
+ParamVariation31=ParameterName=Manufactore|VariantValue= 
+ParamDesignator31=R10
+ParamVariation32=ParameterName=Notice|VariantValue= 
+ParamDesignator32=R10
+ParamVariation33=ParameterName=Part Number|VariantValue=Resistor_1.5k_1_0603
+ParamDesignator33=R10
+ParamVariation34=ParameterName=PCB3D|VariantValue= 
+ParamDesignator34=R10
+ParamVariation35=ParameterName=Pin Info|VariantValue= 
+ParamDesignator35=R10
+ParamVariation36=ParameterName=Power|VariantValue=*
+ParamDesignator36=R10
+ParamVariation37=ParameterName=Rate|VariantValue= 
+ParamDesignator37=R10
+ParamVariation38=ParameterName=Shop|VariantValue= 
+ParamDesignator38=R10
+ParamVariation39=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator39=R10
+ParamVariation40=ParameterName=Simulation|VariantValue= 
+ParamDesignator40=R10
+ParamVariation41=ParameterName=Tolerance|VariantValue=1%
+ParamDesignator41=R10
+ParamVariation42=ParameterName=Value|VariantValue=1,5 к
+ParamDesignator42=R10
+ParamVariationCount=42
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for buck_reg_for_jetson\Design Rule Check - PCB1_on_hydrolib.html
