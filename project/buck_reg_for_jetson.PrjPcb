@@ -49,24 +49,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=buck_reg_old.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=0
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=SAMTGVCO
-
-[Document2]
-DocumentPath=reference_datasheet.SchDoc
+DocumentPath=reference.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -82,7 +65,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HUQIHWAY
 
-[Document3]
+[Document2]
 DocumentPath=buck_reg_for_jetson.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -99,7 +82,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document4]
+[Document3]
 DocumentPath=PCB_main.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -116,7 +99,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OTKSKXTM
 
-[Document5]
+[Document4]
 DocumentPath=main.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -133,7 +116,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WEAUQETB
 
-[Document6]
+[Document5]
 DocumentPath=buck_reg_12v_6a.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -157,9 +140,9 @@ AllowFabrication=0
 ParameterCount=0
 VariationCount=2
 Variation1=Designator=R9|UniqueId=\OOYETQNW\TRXTBYIN|Kind=2|AlternatePart=Resistor|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\solov\Documents\Altium\Hydrolib\Hydrolib.DbLib/Resistors$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=Resistor_4.7k_1_0603|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Hydrolib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=0603R|AltLibLink_IsSameFootprint=True
-ParamVariation1=ParameterName=Case|VariantValue= 
+ParamVariation1=ParameterName=Comment|VariantValue=Resistor
 ParamDesignator1=R9
-ParamVariation2=ParameterName=Comment|VariantValue=Resistor
+ParamVariation2=ParameterName=Case|VariantValue= 
 ParamDesignator2=R9
 ParamVariation3=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator3=R9
@@ -200,9 +183,9 @@ ParamDesignator20=R9
 ParamVariation21=ParameterName=Value|VariantValue=4,7 к
 ParamDesignator21=R9
 Variation2=Designator=R10|UniqueId=\OOYETQNW\YPFYRSAI|Kind=2|AlternatePart=Resistor|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\solov\Documents\Altium\Hydrolib\Hydrolib.DbLib/Resistors$|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=Resistor_1.5k_1_0603|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Hydrolib.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors$|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=0603R|AltLibLink_IsSameFootprint=True
-ParamVariation22=ParameterName=Case|VariantValue= 
+ParamVariation22=ParameterName=Comment|VariantValue=Resistor
 ParamDesignator22=R10
-ParamVariation23=ParameterName=Comment|VariantValue=Resistor
+ParamVariation23=ParameterName=Case|VariantValue= 
 ParamDesignator23=R10
 ParamVariation24=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator24=R10
